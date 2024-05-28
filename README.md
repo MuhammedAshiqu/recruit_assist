@@ -49,4 +49,7 @@ Choose the desired option, follow the instructions, and interact with the applic
 Feel free to explore, modify, and extend the functionality of the application according to your needs. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or submit a pull request. Happy recruiting!
 
 ##Output
+![1](https://github.com/MuhammedAshiqu/recruit_assist/assets/69718823/180207cf-61b1-4815-953a-e496a6acf6ee)
+![2](https://github.com/MuhammedAshiqu/recruit_assist/assets/69718823/d9740085-d2cf-4a38-a41b-a7fd52e6390f)
+![3](https://github.com/MuhammedAshiqu/recruit_assist/assets/69718823/ea4f49e4-e64b-4787-8087-b732b39a59cd)
 
